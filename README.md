@@ -26,4 +26,3 @@ python main.py
    2. Choose your difficulty by typing easy or hard.
    3. Input your numeric guess when prompted.
    4. Follow the hints until you guess the number or run out of lives!
-
