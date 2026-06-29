@@ -4,7 +4,7 @@ A simple command-line number guessing game built with Python. The program select
 
 * Two Difficulty Levels:
 * Easy: 10 attempts to guess the number.
-   * Hard: 5 attempts to guess the number. 
+* Hard: 5 attempts to guess the number. 
 * Live Feedback: Tells you if your guess is "Too high" or "Too low" after every turn. 
 * ASCII Art: Displays a custom game logo at startup. 
 
@@ -26,5 +26,4 @@ python main.py
    2. Choose your difficulty by typing easy or hard.
    3. Input your numeric guess when prompted.
    4. Follow the hints until you guess the number or run out of lives!
-[9] [https://github.com](https://github.com/aasthas2022/100-Days-Of-Code-Using-Python)
-[10] [https://github.com](https://github.com/aasthas2022/100-Days-Of-Code-Using-Python)
+
